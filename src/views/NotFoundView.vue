@@ -1,0 +1,1 @@
+<template><section class="not-found"><div class="not-found-code">404</div><h1>Esse endereço não virou moradia.</h1><p>A página que você tentou acessar não existe.</p><RouterLink class="btn btn-primary" to="/">Voltar para o início</RouterLink></section></template>
